@@ -1,5 +1,5 @@
 {
-  "name": "mtasa-filterbot",
+  "name": "discord-filterbot",
   "version": "1.0.0",
   "description": "A Discord bot to filter messages without embedded media in a single channel",
   "main": "src/app.js",

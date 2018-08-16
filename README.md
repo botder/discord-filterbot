@@ -1,4 +1,4 @@
-# MTA:SA - Filter bot
+# Discord filter bot
 A Discord bot to filter messages without embedded media in a single channel
 
 ## How to setup
