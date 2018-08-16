@@ -1,0 +1,15 @@
+{
+  "name": "mtasa-filterbot",
+  "version": "1.0.0",
+  "description": "A Discord bot to filter messages without embedded media in a single channel",
+  "main": "src/app.js",
+  "scripts": {
+    "start": "node src/app.js"
+  },
+  "keywords": [],
+  "author": "Marek Kulik <marek.kulik@hotmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "discord.js": "^11.4.2"
+  }
+}

@@ -1,0 +1,8 @@
+{
+    "token": "<secret discord bot token>",
+    "channel": "<channel id>",
+    "ignored_roles": [
+        "Administrators",
+        "Moderators"
+    ]
+}
